@@ -6,6 +6,7 @@ A series of Python challenges and the solutions I come up with. The goal is to d
 
 * [Codecademy](https://www.codecademy.com/learn/learn-python-3) - The tutorial used
 * [Visual Studio Code](https://code.visualstudio.com/) - IDE
+* [GitHub & Visual Studio Code](https://vscode.github.com/) - Tutorial on using GitHub and VS Code together
 
 ## Acknowledgments
 
