@@ -4,12 +4,12 @@ A series of Python challenges and the solutions I come up with. The goal is to d
 
 ## Resources Used
 
-* [Codecademy](https://www.codecademy.com/learn/learn-python-3){:target="_blank"} - The tutorial used
-* [Visual Studio Code](https://code.visualstudio.com/){:target="_blank"} - IDE
-* [GitHub & Visual Studio Code](https://vscode.github.com/){:target="_blank"} - Tutorial on using GitHub and VS Code together
-* [Git-it](https://github.com/jlord/git-it-electron){:target="_blank"} - (free) Interactive tutorial for learning Git
-* [Mastering Markdown](https://www.educative.io/blog/bash-shell-command-cheat-sheet){:target="_blank"} - Markdown cheat sheet for .md files
-* [GitHub's Markdown Cheatsheet](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet#emphasis){:target="_blank"} - GitHub's Markdown cheat sheet for .md files
+* <a href="https://www.codecademy.com/learn/learn-python-3" target="_blank">Codecademy</a> - The tutorial used
+* <a href="https://code.visualstudio.com/" target="_blank">Visual Studio Code</a> - IDE used
+* <a href="https://vscode.github.com/" target="_blank">GitHub & Visual Studio Code</a> - Tutorial on using GitHub and VS Code together
+* <a href="https://github.com/jlord/git-it-electron" target="_blank">Git-it</a> - (free) Interactive tutorial for learning Git
+* <a href="https://www.educative.io/blog/bash-shell-command-cheat-sheet" target="_blank">Mastering Markdown</a> - Markdown cheat sheet for .md files
+* <a href="https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet#emphasis" target="_blank">GitHub's Markdown Cheatsheet</a> - GitHub's Markdown cheat sheet for .md files
 
 ## Acknowledgments
 
