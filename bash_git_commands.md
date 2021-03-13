@@ -2,7 +2,7 @@
 
 This is a list of the different commands I use when working with Git and Bash.
 
-## Bash commands
+### Bash commands
 
 Shorten Bash prompt
 ```
