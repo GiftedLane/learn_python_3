@@ -1,4 +1,4 @@
-# DevNet: Learn Python 3
+# DEVNET: LEARN PYTHON 3
 
 A series of Python challenges and the solutions I come up with. The goal is to develop a strong foundation in Python 3 as part of my DevNet journey.
 
