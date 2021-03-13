@@ -9,7 +9,7 @@ A series of Python challenges and the solutions I come up with. The goal is to d
 * [GitHub & Visual Studio Code](https://vscode.github.com/) - Tutorial on using GitHub and VS Code together
 * [Git-it](https://github.com/jlord/git-it-electron) - (free) Interactive tutorial for learning Git
 * [Mastering Markdown](https://guides.github.com/features/mastering-markdown/) - Markdown cheat sheet for .md files
-* [GitHub's Markdown Cheatsheet](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet#emphasis) - GitHub's Markdown cheat sheet for .md files
+* [GitHub's Markdown Cheatsheet](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet) - GitHub's Markdown cheat sheet for .md files
 
 ## Acknowledgments
 
