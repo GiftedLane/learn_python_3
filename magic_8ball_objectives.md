@@ -1,13 +1,23 @@
-# DevNet: Learn Python 3
+# Magic 8-Ball
 
-A series of Python challenges and the solutions I come up with. The goal is to develop a strong foundation in Python 3 as part of my DevNet journey.
+Create a Python 3 version of the Magic 8-Ball toy.
 
-## Resources Used
+## Objectives
 
-* [Codecademy](https://www.codecademy.com/learn/learn-python-3) - The tutorial used
-* [Visual Studio Code](https://code.visualstudio.com/) - IDE
-* [GitHub & Visual Studio Code](https://vscode.github.com/) - Tutorial on using GitHub and VS Code together
+* The program should know the name of the person running it
+* The program should have a predetermined question that's hard-coded
+* The program should randomly output one of the hard-coded answers
+  1.  Yes - definitely.
+  2.  It is decidedly so.
+  3.  Without a doubt.
+  4.  Reply hazy, try again.
+  5.  Ask again later.
+  6.  Better not tell you now.
+  7.  My sources say no.
+  8.  Outlook not so good.
+  9.  Very doubtful.
+* Print out an answer when the name is known
+* Print out an answer when the name is NOT known 
 
-## Acknowledgments
-
-Animated series such as Mike Tyson Mysteries, Justice League, and Samurai Champloo were played in constant rotation during this study journey.
+## Bonus objectives
+* Let end-user enter in their name and a question
