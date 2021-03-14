@@ -74,7 +74,22 @@ git log
 
 ```bash
 #Check status of changes to repo
-#Check if local branch is ahead/behind remote repo
+git status
+```
+
+```bash
+#Workflow to check if local repo is behind remote repo
+
+#View actions that will take place without applying them
+git fetch --dry-run
+
+#View specific commits to see diffs
+get show <commit>
+
+#Pull commits, files, and refs from remote repo
+git fetch
+
+#Check repo diffs
 git status
 ```
 
