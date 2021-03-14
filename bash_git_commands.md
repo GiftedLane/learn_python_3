@@ -74,6 +74,7 @@ git log
 
 ```bash
 #Check status of changes to repo
+#Check if local branch is ahead/behind remote repo
 git status
 ```
 
