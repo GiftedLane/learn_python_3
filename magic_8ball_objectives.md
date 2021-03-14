@@ -6,7 +6,7 @@ Create a Python 3 version of the Magic 8-Ball toy.
 
 * The program should know the name of the person running it
 * The program should have a predetermined question that's hard-coded
-* The program should randomly output one of the hard-coded answers
+* The program should randomly output one of the hard-coded answers below:
  1.  Yes - definitely.
  2.  It is decidedly so.
  3.  Without a doubt.
@@ -16,8 +16,9 @@ Create a Python 3 version of the Magic 8-Ball toy.
  7.  My sources say no.
  8.  Outlook not so good.
  9.  Very doubtful.
-* Print out an answer when the name is known
-* Print out an answer when the name is NOT known 
 
 ## Bonus objectives
-* Let end-user enter in their name and a question
+* Let the end-user enter in their name and a question
+* Handle errors gracefully
+ 1. Print out an answer when the name is known
+ 2. Print out an answer when the name is NOT known  
