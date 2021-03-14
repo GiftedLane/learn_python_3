@@ -1,6 +1,6 @@
 # DevNet: Useful Python Functions
 
-This is a list of the different Python functions I use when working with Python
+This is a list of the different Python functions I use when working with Python.
 
 ```python
 #View functions of an imported module
