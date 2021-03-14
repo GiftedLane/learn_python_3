@@ -111,6 +111,14 @@ git commit
 git fetch --dry-run
 ```
 
+```bash
+#Stage deleted and modified files
+git add -u
+
+#Stage specific deleted and modified files
+git add -u <filename>
+```
+
 ## Acknowledgments
 
 Animal Crossing New Horizons was played heavily during study breaks.
