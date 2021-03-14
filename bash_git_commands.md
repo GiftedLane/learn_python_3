@@ -69,6 +69,11 @@ git init dir/sub_dir
 
 ```bash
 #Check status of changes to repo
+git log
+```
+
+```bash
+#View commit history
 git status
 ```
 
