@@ -1,8 +1,9 @@
 # Shipping Program
 
-### Objectives
+### Objective
 
 The program should tell the end-user what the cheapest shipping method is based on the weight entered.
+
 ## Shipping Details
 
 **GROUND SHIPPING**
