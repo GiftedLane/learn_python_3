@@ -1,8 +1,6 @@
 # Shipping Program
 
-### Objective
-
-The program should tell the end-user what the cheapest shipping method is based on the weight entered.
+The program should tell the end-user the cheapest shipping method based on the weight entered using the below details.
 
 ## Shipping Details
 
