@@ -1,7 +1,8 @@
 # Shipping Program
 
-Create a Python 3 program that calculates shipping.
+### Objectives
 
+The program should tell the end-user what the cheapest shipping method is based on the weight entered.
 ## Shipping Details
 
 **GROUND SHIPPING**
@@ -20,7 +21,3 @@ Create a Python 3 program that calculates shipping.
 | > 2 lb and <= 6 lb  | $9.00/lb      |
 | > 6 lb and <= 10 lb | $12.00/lb     |
 | > 10 lb             | $14.25/lb     |
-
-## Objectives
-
-The program should tell the end-user what the cheapest shipping method is based on the weight entered.
