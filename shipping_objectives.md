@@ -2,8 +2,6 @@
 
 The program should tell the end-user the cheapest shipping method based on the weight entered using the below details.
 
-## Shipping Details
-
 **GROUND SHIPPING**
 | Package Weight      | Shipping Cost     |
 | ------------------- |:-----------------:|
