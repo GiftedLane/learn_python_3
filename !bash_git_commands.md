@@ -78,6 +78,11 @@ git status
 ```
 
 ```bash
+#View the remote repo URL
+git remote show origin
+```
+
+```bash
 #Workflow to check if local repo is behind remote repo
 
 #View actions that will take place without applying them
