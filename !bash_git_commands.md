@@ -7,6 +7,12 @@ This is a list of the different commands I use when working with Git and Bash. A
 ```bash
 #Customize the Bash prompt
 PS1='\W\$ '
+
+#Customize CMD Prompt
+prompt Gifted$g
+
+#Clear CMD Prompt window
+cls
 ```
 
 ```bash
