@@ -99,6 +99,16 @@ git status
 ```
 
 ```bash
+#Pull in changes from the remote repo
+git pull origin main
+```
+
+```bash
+#Pchanges from local repo to the remote repo
+git push origin main
+```
+
+```bash
 #Stage specific file for commit
 git add text_file.txt
 
