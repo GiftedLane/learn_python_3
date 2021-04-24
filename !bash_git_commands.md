@@ -11,6 +11,11 @@ PS1='\W\$ '
 #Customize CMD Prompt
 prompt Gifted$g
 
+#Customize Powershell Prompt
+function prompt {
+'PS ' + ($pwd -split '\\')[0]+' '+$(($pwd -split '\\')[-1] -join '\') + '> '
+}
+
 #Clear CMD Prompt window
 cls
 ```
